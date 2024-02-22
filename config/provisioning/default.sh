@@ -7,14 +7,14 @@
 
 NODES=(
     "https://github.com/ltdrdata/ComfyUI-Manager"
-    # "https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet"
-    # "https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
+    "https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet"
+    "https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
     # "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
     # "https://github.com/WASasquatch/was-node-suite-comfyui"
 )
 
 CHECKPOINT_MODELS=(
-    "https://civitai.com/models/112902/dreamshaper-xl"
+    # "https://civitai.com/models/112902/dreamshaper-xl"
     # "https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt"
     #"https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.ckpt"
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
