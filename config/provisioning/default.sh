@@ -13,6 +13,7 @@ NODES=(
     "https://github.com/WASasquatch/was-node-suite-comfyui"
     "https://github.com/jags111/efficiency-nodes-comfyui"
     "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes"
+    "https://github.com/11cafe/comfyui-workspace-manager.git"
 )
 
 CHECKPOINT_MODELS=(
