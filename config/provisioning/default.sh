@@ -15,6 +15,7 @@ NODES=(
     "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes"
     "https://github.com/11cafe/comfyui-workspace-manager.git"
     "https://github.com/brianfitzgerald/style_aligned_comfy"
+    "https://github.com/rgthree/rgthree-comfy"
 )
 
 CHECKPOINT_MODELS=(
