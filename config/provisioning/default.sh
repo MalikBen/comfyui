@@ -17,6 +17,8 @@ NODES=(
     "https://github.com/brianfitzgerald/style_aligned_comfy"
     "https://github.com/rgthree/rgthree-comfy"
     "https://github.com/FizzleDorf/ComfyUI_FizzNodes"
+    "https://github.com/Fannovel16/comfyui_controlnet_aux"
+    "https://github.com/Davemane42/ComfyUI_Dave_CustomNode"
 )
 
 CHECKPOINT_MODELS=(
