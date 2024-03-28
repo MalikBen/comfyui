@@ -19,6 +19,8 @@ NODES=(
     "https://github.com/FizzleDorf/ComfyUI_FizzNodes"
     "https://github.com/Fannovel16/comfyui_controlnet_aux"
     "https://github.com/Davemane42/ComfyUI_Dave_CustomNode"
+    "https://github.com/ssitu/ComfyUI_UltimateSDUpscale"
+    "https://github.com/AIrjen/OneButtonPrompt"
 )
 
 CHECKPOINT_MODELS=(
