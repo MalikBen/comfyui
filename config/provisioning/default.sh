@@ -21,6 +21,7 @@ NODES=(
     "https://github.com/Davemane42/ComfyUI_Dave_CustomNode"
     "https://github.com/ssitu/ComfyUI_UltimateSDUpscale"
     "https://github.com/AIrjen/OneButtonPrompt"
+    "https://github.com/cubiq/ComfyUI_IPAdapter_plus.git"
 )
 
 CHECKPOINT_MODELS=(
